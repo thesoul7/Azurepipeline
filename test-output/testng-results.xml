@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23098" started-at="2020-09-14T13:04:25 IST" finished-at="2020-09-14T13:04:48 IST">
+    <groups>
+    </groups>
+    <test name="chrome Test" duration-ms="23098" started-at="2020-09-14T13:04:25 IST" finished-at="2020-09-14T13:04:48 IST">
+      <class name="com.testscripts.OneScript">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.testscripts.OneScript@1e6d1014]" name="openBrowser" is-config="true" duration-ms="15033" started-at="2020-09-14T13:04:25 IST" finished-at="2020-09-14T13:04:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginToApplication()[pri:0, instance:com.testscripts.OneScript@1e6d1014]" name="loginToApplication" is-config="true" duration-ms="348" started-at="2020-09-14T13:04:40 IST" finished-at="2020-09-14T13:04:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="scriptOne()[pri:0, instance:com.testscripts.OneScript@1e6d1014]" name="scriptOne" duration-ms="9" started-at="2020-09-14T13:04:41 IST" finished-at="2020-09-14T13:04:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scriptOne -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.testscripts.OneScript@1e6d1014]" name="logout" is-config="true" duration-ms="6832" started-at="2020-09-14T13:04:41 IST" finished-at="2020-09-14T13:04:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.testscripts.OneScript@1e6d1014]" name="closeBrowser" is-config="true" duration-ms="804" started-at="2020-09-14T13:04:48 IST" finished-at="2020-09-14T13:04:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.testscripts.OneScript -->
+    </test> <!-- chrome Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+com\pomclass\Login.class
+com\generic\BaseClass.class
+com\pomclass\CreateTask.class
+com\stringmanipulation\RemoveNonInteger.class
+com\edgebrowser\EdgeBrowser.class
